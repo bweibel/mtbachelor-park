@@ -1,0 +1,22 @@
+{
+  "name": "mtbachelor-park",
+  "version": "1.0.0",
+  "description": "Searches for parking openings at Mt. Bachelor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bweibel/mtbachelor-park.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bweibel/mtbachelor-park/issues"
+  },
+  "homepage": "https://github.com/bweibel/mtbachelor-park#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
